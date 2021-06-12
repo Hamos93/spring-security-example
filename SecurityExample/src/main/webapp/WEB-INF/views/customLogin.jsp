@@ -21,6 +21,11 @@
 		<div>
 			<input type="password" name="password" value="admin">
 		</div>
+		
+		<div>
+			<input type="checkbox" name="remember-me">자동 로그인
+		</div>
+		
 		<div>
 			<input type="submit">
 		</div>
